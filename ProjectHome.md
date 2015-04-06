@@ -1,0 +1,1 @@
+STM32F4Discovery EXTBOARD is a evalution board with STM32F407VG full-features. It has LCD, ethernet, uart and camera interfaces. User can run a large number of example programs on it.
